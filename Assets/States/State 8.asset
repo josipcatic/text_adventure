@@ -10,12 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
-  m_Name: State 4
+  m_Name: State 8
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'Guard: That so? Then go and slay the beast dorment in the cave west
-    to the city. The King will be awaiting for the beast''s head in your arms.
+  storyText: 'You run away
 
-'
-  nextStates:
-  - {fileID: 11400000, guid: 642d776aaa5643e4f9ed3c299a970d2b, type: 2}
-  currentImage: {fileID: 6622622283834469640, guid: 547bc2fec25e7de47b4bf6e9f23133f1, type: 3}
+
+    1. West and head to the cave to slay the monster
+
+    2.
+    East and run away.'
+  nextStates: []
+  currentImage: {fileID: -1267662897243830254, guid: ae1693b9f69e8c44692ba2f4555d45db, type: 3}

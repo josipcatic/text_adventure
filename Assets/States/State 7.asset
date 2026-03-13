@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
+  m_Name: State 7
+  m_EditorClassIdentifier: Assembly-CSharp::State
+  storyText: 'After walking a while you are met at a crossroads. Do you choose to
+    go:
+
+
+    1. East and run away.
+
+    2. West and head to the cave to slay the
+    monster'
+  nextStates:
+  - {fileID: 11400000, guid: 2c8b35882cd2e8f4a82064d604aaeaeb, type: 2}
+  - {fileID: 11400000, guid: 6cb714c4e3e22164db30074222e78e02, type: 2}
+  currentImage: {fileID: -1267662897243830254, guid: ae1693b9f69e8c44692ba2f4555d45db, type: 3}

@@ -10,6 +10,7 @@ public class TextGame : MonoBehaviour
     [SerializeField] TMP_Text titleText;
     [SerializeField] State startingState;
     [SerializeField] Image currentImage;
+    [SerializeField] Object player;
 
     State state;
 
