@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 4
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'Guard: That so? Then go and slay the beast dorment in the cave west
-    to the city. The King will be awaiting for the beast''s head in your arms.
+  storyText: 'Guard: That so? Then go and slay the beast dormant in the cave west
+    of the city. The King will be awaiting for the beast''s head in your arms.
 
 '
   nextStates:

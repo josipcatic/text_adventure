@@ -12,12 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 11
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'You turn back.
-
-
-    1. Enter
-
-    2. Turn back and reconsider your
-    choices.'
-  nextStates: []
-  currentImage: {fileID: -7777169233054554690, guid: bd1b6cd852816774d9eebf7becdcf05d, type: 3}
+  storyText: "You turn back. While trying to find your way back the guards abduct
+    you and execute you for for performing your task. \n\n1. Restart GAME"
+  nextStates:
+  - {fileID: 11400000, guid: 77cef2e8c7c402248a87ec6cf811d02a, type: 2}
+  currentImage: {fileID: -3327718801376890438, guid: d22898dc0f7536b42ae984be3577b972, type: 3}

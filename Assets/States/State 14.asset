@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 14
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'It''s an axe!
+  storyText: 'You found an axe! This could be helpful in slaying the beast!
 
 
-    1. Go back to crossroads
+    1.
+    Go back to crossroads
 
 '
   nextStates:

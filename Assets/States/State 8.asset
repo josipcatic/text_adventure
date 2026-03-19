@@ -12,12 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 8
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'You run away
-
-
-    1. West and head to the cave to slay the monster
-
-    2.
-    East and run away.'
-  nextStates: []
-  currentImage: {fileID: -1267662897243830254, guid: ae1693b9f69e8c44692ba2f4555d45db, type: 3}
+  storyText: "After running away and setting a camp deep into the night, you fall
+    asleep... After waking up you find yourself abdocuted by the guards who followed
+    you and you are executed shortly after. \n\n1. Restart GAME."
+  nextStates:
+  - {fileID: 11400000, guid: 77cef2e8c7c402248a87ec6cf811d02a, type: 2}
+  currentImage: {fileID: -3327718801376890438, guid: d22898dc0f7536b42ae984be3577b972, type: 3}

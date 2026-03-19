@@ -12,13 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 13
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'It''s a chest!!
-
-
-    1. Open it
-
-    2. Leave it there, it''s probably
-    a mimic'
+  storyText: "Entering the room you ralize all that glow was stacks upon stacks of
+    gold and in the middle of the room you see a chest. \n\n1. Open it\n2. Leave
+    it there, it's probably a mimic"
   nextStates:
   - {fileID: 11400000, guid: b52df6c64a43f6e4cacd64ffb00d39c1, type: 2}
   - {fileID: 11400000, guid: 1cac88279ba8e4340bb926c157708faa, type: 2}

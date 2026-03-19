@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
+  m_Name: State 18
+  m_EditorClassIdentifier: Assembly-CSharp::State
+  storyText: "After exiting the cave. You tried to find your way back but the guards
+    abduct you and execute you for for performing your task. \n\n1. Restart GAME"
+  nextStates:
+  - {fileID: 11400000, guid: 77cef2e8c7c402248a87ec6cf811d02a, type: 2}
+  currentImage: {fileID: -3327718801376890438, guid: d22898dc0f7536b42ae984be3577b972, type: 3}

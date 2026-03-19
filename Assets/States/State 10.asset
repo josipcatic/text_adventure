@@ -12,14 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 10
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'After exploring a while you met yourself at a crossroads yet again.
+  storyText: 'After exploring the came for a while you met yourself at a crossroads
+    yet again. To your right you see see a faint glow but you also hear some noises
+    - what could it be? To your right you see a lot of golden light, you can see
+    that there is a room - could it be a treasure room?
+
+
     Do you:
 
+    1. Go
+    left deeper into the cave
 
-    1. Go left deeper into the cave
-
-    2. Go right and head into
-    the shiny room'
+    2. Go right and head into the shiny room'
   nextStates:
   - {fileID: 11400000, guid: a7a12a5269e03a440b29835f59a44cf7, type: 2}
   - {fileID: 11400000, guid: f50c171869d7ebb49a6966a031de2e34, type: 2}

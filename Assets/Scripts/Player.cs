@@ -14,8 +14,8 @@ public class Player : MonoBehaviour
         return hasAxe;
     }
 
-    public void SetAxe()
+    public void SetAxe(bool value)
     {
-        hasAxe=true;
+        hasAxe=value;
     }
 }

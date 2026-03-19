@@ -12,13 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 9
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 'You find a cave.
+  storyText: 'After walking for a while you find a cave. It''s finally the time to
+    reedem your freedom. But what if all this is just a scam and a goverment''s way
+    of killing off people without anyone knowing..?
 
 
     1. Enter
 
-    2. Turn back and reconsider your
-    choices.'
+    2. Turn back
+    and reconsider your choices.'
   nextStates:
   - {fileID: 11400000, guid: 28616301445a6234689d5d2c1b186f15, type: 2}
   - {fileID: 11400000, guid: d152e31287c1fb44eaad5f51aa73d375, type: 2}

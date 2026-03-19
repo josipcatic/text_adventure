@@ -12,6 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 12
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: "You find a dragon\n\n1. fight \n2. Run for your life"
-  nextStates: []
+  storyText: 'In the room to the left of you, you find a teal crystal dragon that
+    currently seems asleep. It looks vulnerable to an attack now. Will you be strong
+    enough?
+
+
+    1. Fight the dragon
+
+    2. Run for your life'
+  nextStates:
+  - {fileID: 11400000, guid: cda24bc8bfac7d6489a4e8331947d515, type: 2}
+  - {fileID: 11400000, guid: a8b60f1feb46df04397cf93fad30d9cb, type: 2}
   currentImage: {fileID: 7904007873753529767, guid: 88f88a744e974c04aa550b5e09e94d5e, type: 3}

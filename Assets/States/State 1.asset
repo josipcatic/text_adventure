@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7945802899d9464428290576f32958c2, type: 3}
   m_Name: State 1
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: you wake up in a filthy cell yet again... Wishing that you never commited
+  storyText: You wake up in a filthy cell yet again... Wishing that you never commited
     those crimes - longing for freedom.
   nextStates:
   - {fileID: 11400000, guid: 30912da4d842b5949a3cb78cf6fb7a98, type: 2}
